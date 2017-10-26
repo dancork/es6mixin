@@ -1,0 +1,8 @@
+{
+  "name": "es6mixin",
+  "version": "1.0.0",
+  "description": "A tiny library for writing mixins for es6 classes",
+  "main": "mixin.js",
+  "author": "@dancork",
+  "license": "MIT"
+}
